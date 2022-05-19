@@ -1,1 +1,1 @@
-# [Game](alexandr1solo.github.io/my-game-one/ru)
+# [Game](alexandr1solo.github.io/my-game-one/)
